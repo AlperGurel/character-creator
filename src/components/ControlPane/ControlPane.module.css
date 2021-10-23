@@ -1,4 +1,7 @@
 .controlPane {
+  width: 50%;
+  white-space: nowrap;
+  overflow: scroll;
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;
